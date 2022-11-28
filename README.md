@@ -1,10 +1,9 @@
-# Awesome Zeitreihen-Tools und Daten der Energiesystemmodellierung
+<a href="https://www.fz-juelich.de/en/iek/iek-3"><img src="https://raw.githubusercontent.com/OfficialCodexplosive/README_Assets/862a93188b61ab4dd0eebde3ab5daad636e129d5/FJZ_IEK-3_logo.svg" alt="FZJ Logo" width="300px"></a>
 
-# Einführung
+# Awesome Zeitreihen-Tools und Daten der Energiesystemmodellierung
 
 Dieses Dokument entstand auf dem Jahrestreffen 2021 des Forschungsnetzwerks Energiesystemanalyse.
 Ziel ist der Informationsaustausch für Energiesystemmodellierer zu Zeitreihen.
-
 
 Um es aktuell zu halten, sind wir auf Mithilfe angewiesen. Bitte eine Issue eröffnen oder einen Pull-Request schicken, falls Sie etwas hinzufügen möchten.
 
@@ -12,7 +11,7 @@ Um es aktuell zu halten, sind wir auf Mithilfe angewiesen. Bitte eine Issue erö
 
 Urheber des Dokuments sind alle Teilnehmer des Workshops "Zeitreihen-Tools und Daten der Energiesystemmodellierung" vom Jahrestreffen 2021 des Forschungsnetzwerks Energiesystemanalyse. Vielen Dank an alle Teilnehmer für die rege Mitarbeit und die spannenden Diskussionen!
 
-Gepflegt wird das Dokument vom Team des IEK-3 des Forschungszentrums Jülich.
+Gepflegt wird das Dokument vom Team des <a href="https://www.fz-juelich.de/de/iek/iek-3">IEK-3</a> des <a href="https://www.fz-juelich.de/de">Forschungszentrums Jülich</a>.
 
 # Verwendung von Zeitreihen
 
@@ -406,3 +405,7 @@ Absolut nicht verfügbar:
 - zukünftiger Netzausbau bis 2050
 - Reservoir+Run-of-River Zeitreihen für alle europäischen Länder 
 - Power-to-Gas Standorte inkl. technischer Daten, sowie Zukunftsszenarien
+
+## Über uns
+<p align="center"><a href="https://www.fz-juelich.de/en/iek/iek-3"><img src="https://github.com/OfficialCodexplosive/README_Assets/blob/master/iek3-wide.png?raw=true" alt="Institut TSA"></a></p>
+Wir sind das <a href="https://www.fz-juelich.de/en/iek/iek-3">Institut für Energie- und Klimaforschung - Techno-ökonomische Systemanalyse (IEK-3)</a> des <a href="https://www.fz-juelich.de/en">Forschungszentrum Jülich</a>. Unser interdisziplinäres Team von Wissenschaftlern führt energiewirtschaftliche Prozess- und Systemanalysen für Planungs- und Beratungszwecke durch. Aktuelle Schwerpunkte sind die Entwicklung von Energiestrategien zur Erreichung der Treibhausgasminderungsziele der Bundesregierung, die Gestaltung von Infrastrukturen für eine nachhaltige und sichere Energieversorgung (z.B. über Power-to-Gas, Power-to-Fuel, Biomass-to-Liquid) und die Durchführung von Kostenanalysen für die Einführung und den Betrieb neuer Technologien für zukünftige Energiemärkte.
